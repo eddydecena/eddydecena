@@ -28,7 +28,7 @@ me.say_hi()
 ---
 
 - 🔭 I’m currently doing some machine learning at [@opticrd](https://github.com/opticrd/)
-- 🌱 I’m currently learning Julia
+- 🌱 I’m currently learning Golang
 - 👯 I’m looking to collaborate on HuggingFace
 - 💬 Ask me about Machine Learning in the cloud
 - ⚡ Fun fact: 
